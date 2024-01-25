@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730684313659",
+    "firebase_url": "https://i-attend-705aa.firebaseio.com",
+    "project_id": "i-attend-705aa",
+    "storage_bucket": "i-attend-705aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730684313659:android:3d52c3b0ea81314e",
+        "android_client_info": {
+          "package_name": "com.tnetic.capture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730684313659-05bn8t9idkbpkf6p5e8lp7gttnpbcjkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCphgLwb_2UG7nxg3TY4zzZqIjNbXZd1sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730684313659-05bn8t9idkbpkf6p5e8lp7gttnpbcjkl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730684313659-k5de0jbumkc08m988rej3ug6617mtdl9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tnetic.capture"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
